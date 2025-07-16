@@ -35,3 +35,5 @@ git clone https://github.com/your-username/farm-todo-app.git
 
 # run everything with Docker
 docker compose up --build
+
+⚠️ Note: This project is still a work in progress. The frontend is currently having trouble connecting to the backend due to local environment issues, but the code for both sides is complete and follows proper full-stack patterns.
